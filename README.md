@@ -27,9 +27,6 @@ Clone the repository on your local machine, and open each individual project in 
 
 
 <td>
-
-John Doe
-
 Rithik Jain
 
 <p align="center">
